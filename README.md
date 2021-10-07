@@ -1,6 +1,6 @@
-# ukiyolive
+# Safari Guys
 
-South Africa Ukiyo Live Web View App
+South Africa Safari Guys Outsurance Live Web View App
 
 ## Getting Started
 
